@@ -33,11 +33,7 @@ Asegúrate de ajustar la variable `ruta_del_motor_tesseract` en el script con la
 
 ```python
 ruta_del_motor_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-
 Asegúrate de ajustar la variable `ruta_del_motor_tesseract` en el script con la ruta correcta de tu ejecutable de Tesseract.
-
-```python
-ruta_del_motor_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 ```
 
 ## 📝 Notas
