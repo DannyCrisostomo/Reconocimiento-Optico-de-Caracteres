@@ -8,16 +8,18 @@ Esta es una aplicación simple de reconocimiento óptico de caracteres (OCR) cre
 
 2. **Ejecutar la Aplicación:**
    Ejecuta el script proporcionado y la interfaz de usuario se abrirá.
+   ![Interfaz Principal](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Interfaz%20principal.png)
 
-3. **Seleccionar una Imagen:**
+
+4. **Seleccionar una Imagen:**
    Utiliza el botón "Seleccionar Imagen" 📷 para elegir una imagen en los formatos admitidos (png, jpg, jpeg, gif). La imagen seleccionada se mostrará en un lienzo.
 
    ![Paso 1 - Seleccionar Imagen](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/imagen.png)
 
-4. **Convertir a Texto:**
+5. **Convertir a Texto:**
    Después de seleccionar una imagen, puedes hacer clic en "Convertir a Texto" 🔄. Se te pedirá que ingreses un nombre para el archivo de texto resultante.
 
-5. **Resultado OCR:**
+6. **Resultado OCR:**
    La aplicación realizará OCR en la imagen, guardará el texto en un archivo de texto y mostrará el resultado en una nueva ventana junto con la imagen procesada.
 
    ![Paso 2 - Resultado OCR](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Texto%20extraido%20de%20la%20imagen.png)
