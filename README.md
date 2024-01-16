@@ -12,7 +12,7 @@ Esta es una aplicación simple de reconocimiento óptico de caracteres (OCR) cre
 3. **Seleccionar una Imagen:**
    Utiliza el botón "Seleccionar Imagen" 📷 para elegir una imagen en los formatos admitidos (png, jpg, jpeg, gif). La imagen seleccionada se mostrará en un lienzo.
 
-   ![Paso 1 - Seleccionar Imagen](images/seleccionar_imagen.png)
+   ![Paso 1 - Seleccionar Imagen](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/imagen.png)
 
 4. **Convertir a Texto:**
    Después de seleccionar una imagen, puedes hacer clic en "Convertir a Texto" 🔄. Se te pedirá que ingreses un nombre para el archivo de texto resultante.
@@ -53,6 +53,19 @@ ruta_del_motor_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 ### Texto Extraído de la Imagen
 ![Texto Extraído](images/texto_extraido.png)
+
+### Interfaz Principal
+![Interfaz Principal](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Interfaz%20principal.png)
+
+### Interfaz Secundaria (Resultado OCR)
+![Interfaz Secundaria](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Interfaz%20secundario.png)
+
+### Texto Extraído de la Imagen
+![Texto Extraído](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Texto%20extraido%20de%20la%20imagen.png)
+
+### Otra Imagen
+![Otra Imagen](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/imagen.png)
+
 
 Puedes agregar capturas de pantalla o imágenes de ejecución del programa en esta sección para proporcionar a los usuarios una vista previa visual.
 
