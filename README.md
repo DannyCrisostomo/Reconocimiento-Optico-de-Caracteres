@@ -50,10 +50,7 @@ ruta_del_motor_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 ## 📷 Imágenes de Ejecución
 
 ### Interfaz Principal
-![Interfaz Principal](images/interfaz_principal.png)
 
-### Interfaz Secundaria (Resultado OCR)
-![Interfaz Secundaria](images/interfaz_secundaria.png)
 
 ### Texto Extraído de la Imagen
 ![Texto Extraído](images/texto_extraido.png)
