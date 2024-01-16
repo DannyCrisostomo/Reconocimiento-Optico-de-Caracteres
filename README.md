@@ -20,7 +20,7 @@ Esta es una aplicación simple de reconocimiento óptico de caracteres (OCR) cre
 5. **Resultado OCR:**
    La aplicación realizará OCR en la imagen, guardará el texto en un archivo de texto y mostrará el resultado en una nueva ventana junto con la imagen procesada.
 
-   ![Paso 2 - Resultado OCR](images/resultado_ocr.png)
+   ![Paso 2 - Resultado OCR](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Texto%20extraido%20de%20la%20imagen.png)
 
 ## ⚙️ Requisitos
 
