@@ -1,5 +1,4 @@
-# OCR App - Reconocimiento Óptico de Caracteres
-
+# OCR App - Reconocimiento Óptico de Caracteres (Imagen a Texto)
 Esta es una aplicación simple de reconocimiento óptico de caracteres (OCR) creada en Python con la interfaz gráfica de usuario (GUI) proporcionada por Tkinter. La aplicación utiliza la biblioteca Tesseract para realizar OCR en imágenes seleccionadas y convierte el texto reconocido en un archivo de texto.
 
 ## Instrucciones de Uso
