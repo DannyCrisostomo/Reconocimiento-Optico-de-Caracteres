@@ -46,10 +46,9 @@ Este proyecto utiliza las siguientes bibliotecas y módulos de Python:
 - **OS:** Módulo para interactuar con el sistema operativo, utilizado para limpiar la pantalla en sistemas operativos Windows.
 
 Ten en cuenta que puedes necesitar instalar estas bibliotecas antes de ejecutar la aplicación. Puedes instalarlas usando `pip`. Por ejemplo:
-
-```bash
+```python
 pip install pillow pytesseract opencv-python matplotlib
-
+```
 ## 📝 Notas
 
 - La aplicación es compatible con imágenes en formato png, jpg, jpeg y gif.
