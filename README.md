@@ -62,7 +62,5 @@ ruta_del_motor_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 ![Texto Extraído](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Texto%20extraido%20de%20la%20imagen.png)
 
 
-Puedes agregar capturas de pantalla o imágenes de ejecución del programa en esta sección para proporcionar a los usuarios una vista previa visual.
 
 ¡Disfruta utilizando la aplicación OCR!
- no crees que estoy repitiendo doble instruccion de uso - imagenes de ejecucion
