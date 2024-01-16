@@ -18,8 +18,8 @@ Esta es una aplicación simple de reconocimiento óptico de caracteres (OCR) cre
 
 5. **Convertir a Texto:**
    Después de seleccionar una imagen, puedes hacer clic en "Convertir a Texto" 🔄. Se te pedirá que ingreses un nombre para el archivo de texto resultante.
-   https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Interfaz%20secundario.png
-    ![Paso 2 - Seleccionar Imagen](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/imagen.png)
+ 
+    ![Paso 2 - Seleccionar Imagen](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Interfaz%20secundario.png)
 
 7. **Resultado OCR:**
    La aplicación realizará OCR en la imagen, guardará el texto en un archivo de texto y mostrará el resultado en una nueva ventana junto con la imagen procesada.
