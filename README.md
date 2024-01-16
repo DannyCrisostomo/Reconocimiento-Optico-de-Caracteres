@@ -34,6 +34,21 @@ Asegúrate de ajustar la variable `ruta_del_motor_tesseract` en el script con la
 ```python
 ruta_del_motor_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 ```
+## 📚 Bibliotecas Utilizadas
+
+Este proyecto utiliza las siguientes bibliotecas y módulos de Python:
+
+- **Tkinter:** Biblioteca estándar de Python para la creación de interfaces gráficas de usuario (GUI).
+- **Pillow (PIL):** Biblioteca para manipulación de imágenes.
+- **Pytesseract:** Herramienta de OCR (Reconocimiento Óptico de Caracteres) que utiliza Tesseract.
+- **OpenCV:** Biblioteca de visión por computadora para procesamiento de imágenes.
+- **Matplotlib:** Biblioteca para la visualización de gráficos y figuras.
+- **OS:** Módulo para interactuar con el sistema operativo, utilizado para limpiar la pantalla en sistemas operativos Windows.
+
+Ten en cuenta que puedes necesitar instalar estas bibliotecas antes de ejecutar la aplicación. Puedes instalarlas usando `pip`. Por ejemplo:
+
+```bash
+pip install pillow pytesseract opencv-python matplotlib
 
 ## 📝 Notas
 
