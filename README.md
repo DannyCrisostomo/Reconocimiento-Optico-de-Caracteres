@@ -49,9 +49,8 @@ ruta_del_motor_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 ## 📷 Imágenes de Ejecución
 
-
 ### Imagen a la que vamos extraer el texto
-![Texto Extraído]([images/texto_extraido.png](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/imagen.png))
+![Paso 1 - Seleccionar Imagen](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/imagen.png)
 
 ### Interfaz Principal
 ![Interfaz Principal](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Interfaz%20principal.png)
