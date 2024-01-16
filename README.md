@@ -53,7 +53,7 @@ ruta_del_motor_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 
 ### Texto Extraído de la Imagen
-![Texto Extraído](images/texto_extraido.png)
+![Texto Extraído]([images/texto_extraido.png](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/imagen.png))
 
 ### Interfaz Principal
 ![Interfaz Principal](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Interfaz%20principal.png)
@@ -63,9 +63,6 @@ ruta_del_motor_tesseract = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 ### Texto Extraído de la Imagen
 ![Texto Extraído](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/Texto%20extraido%20de%20la%20imagen.png)
-
-### Otra Imagen
-![Otra Imagen](https://github.com/DannyCrisostomo/Reconocimiento-Optico-de-Caracteres/blob/35a447865f35b54b3cafa0d93155f27d015270df/Ejecucion%20del%20programa/imagen.png)
 
 
 Puedes agregar capturas de pantalla o imágenes de ejecución del programa en esta sección para proporcionar a los usuarios una vista previa visual.
